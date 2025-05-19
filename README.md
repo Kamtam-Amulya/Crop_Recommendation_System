@@ -1,1 +1,2 @@
-# Crop_Recommendation_System
+# Crops-Classification-With-Recommendation-System-Machine-Learning
+Crops Classification With Recommendation System Machine Learning
